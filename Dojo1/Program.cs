@@ -11,6 +11,7 @@ namespace Dojo1
         static void Main(string[] args)
         {
             // Version 2
+            // new Color "green" added
 
             Console.ForegroundColor = ConsoleColor.DarkYellow;
             Console.WriteLine("\n ***************************************************************************");
