@@ -10,6 +10,8 @@ namespace Dojo1
     {
         static void Main(string[] args)
         {
+            // Version 2
+
             Console.ForegroundColor = ConsoleColor.DarkYellow;
             Console.WriteLine("\n ***************************************************************************");
             Console.WriteLine(" **   Welcome to the Celsius / Fahrenheit / Reamur / Kelvin - Converter   **");
